@@ -15,3 +15,7 @@
 ## Python CLI
 
 * https://github.com/nz-covid-pass/python-nz-covid-pass
+
+## .NET
+
+* https://github.com/JedS6391/NzCovidPass

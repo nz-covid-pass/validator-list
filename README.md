@@ -17,6 +17,7 @@
 * https://github.com/nz-covid-pass/python-nz-covid-pass
 * https://github.com/plambrechtsen/pynzcovidpass
 * https://github.com/finncodes/py-nz-covid-pass
+* https://github.com/zendamacf/nz-vaccine-pass-verify
 
 ### Python HTTP API
 

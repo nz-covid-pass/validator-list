@@ -6,6 +6,10 @@
 * https://nz-covid-pass.github.io/web-nz-covid-pass-decoder/ - [source repo](https://github.com/nz-covid-pass/web-nz-covid-pass-decoder)
 * https://vaxxed.as/ - [source repo](https://github.com/rafcontreras/vaxxed-as)
 
+## Mobile apps
+
+* https://github.com/meshcollider/VaxVerifyNZ (Android)
+
 ## JavaScript SDK
 * https://github.com/vaxxnz/nzcp-js
 

@@ -4,11 +4,14 @@
 
 * https://scanner.nz - [source repo](https://github.com/Kauabunga/covid-cert-scanner)
 * https://nz-covid-pass.github.io/web-nz-covid-pass-decoder/ - [source repo](https://github.com/nz-covid-pass/web-nz-covid-pass-decoder)
-* https://vaxxed.as/ - [source repo](https://github.com/rafcontreras/vaxxed-as)
+* https://vaxxed.as/ - [source repo](https://github.com/vaxxnz/vaxxed-as-app)
 
 ## Mobile apps
 
-* https://github.com/meshcollider/VaxVerifyNZ (Android)
+* https://github.com/meshcollider/VaxVerifyNZ (React Native)
+* https://github.com/vaxxnz/vaxxed-as-app (React Native)
+* https://github.com/mogest/nz_covid_pass_reader (Flutter)
+* https://github.com/kety-folf/Covid-Cert-Scanner (Kotlin)
 
 ## JavaScript SDK
 * https://github.com/vaxxnz/nzcp-js
@@ -38,7 +41,3 @@
 ## Ruby
 
 * https://github.com/mogest/nz-covid-pass
-
-## Flutter
-
-* https://github.com/mogest/nz_covid_pass_reader

@@ -41,3 +41,7 @@
 ## Ruby
 
 * https://github.com/mogest/nz-covid-pass
+
+## Go
+
+* https://github.com/echojc/nzcpv

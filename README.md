@@ -1,5 +1,10 @@
 # List of NZ COVID Pass Validators
 
+## Ministry of Health Offical App - NZ Pass Verifier 
+
+* https://apps.apple.com/nz/app/nz-pass-verifier/id1590019881 (Apple App Store - iOS)
+* https://play.google.com/store/apps/details?id=nz.govt.health.covidpassverifier (Google Play - Android)
+
 ## Web based
 
 * https://scanner.nz - [source repo](https://github.com/Kauabunga/covid-cert-scanner)

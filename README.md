@@ -17,6 +17,7 @@
 * https://github.com/vaxxnz/vaxxed-as-app (React Native)
 * https://github.com/mogest/nz_covid_pass_reader (Flutter)
 * https://github.com/kety-folf/Covid-Cert-Scanner (Kotlin)
+* https://github.com/rwilson504/nzcp-pcf (Microsoft Power Apps)
 
 ## JavaScript SDK
 * https://github.com/vaxxnz/nzcp-js

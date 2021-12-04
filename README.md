@@ -7,11 +7,6 @@
 * https://apps.apple.com/nz/app/nz-pass-verifier/id1590019881 (Apple App Store - iOS)
 * https://play.google.com/store/apps/details?id=nz.govt.health.covidpassverifier (Google Play - Android)
 
-## Commercial
-
-* https://mattr.global/solutions/nz-covid-pass/
-* https://passloads.co.nz - Passloads - (Primarily web based solution with reporting and alerting)
-
 ## Open Source
 
 ### Web based

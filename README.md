@@ -26,6 +26,7 @@
 ### JavaScript SDK
 
 * https://github.com/vaxxnz/nzcp-js
+* https://github.com/servian/nz-covidpass-verification-api
 
 ### Rust SDK
 

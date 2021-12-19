@@ -27,7 +27,6 @@
 ### JavaScript SDK
 
 * https://github.com/vaxxnz/nzcp-js
-* https://github.com/servian/nz-covidpass-verification-api
 
 ### Rust SDK
 
@@ -40,9 +39,10 @@
 * https://github.com/finncodes/py-nz-covid-pass
 * https://github.com/zendamacf/nz-vaccine-pass-verify
 
-### Python HTTP API
+### HTTP API
 
-* https://github.com/jonodavis/NZCP-Verifier
+* https://github.com/jonodavis/NZCP-Verifier (written in Python)
+* https://github.com/servian/nz-covidpass-verification-api (written in JavaScript)
 
 ### .NET
 

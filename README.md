@@ -29,6 +29,10 @@
 * https://github.com/vaxxnz/nzcp-js
 * https://github.com/servian/nz-covidpass-verification-api
 
+### iOS SDK
+
+* https://github.com/GallagherSecurity/NzCovidPass-Swift
+
 ### Rust SDK
 
 * https://github.com/vaxxnz/nzcp-rust

@@ -28,6 +28,10 @@
 
 * https://github.com/vaxxnz/nzcp-js
 
+### iOS SDK
+
+* https://github.com/GallagherSecurity/NzCovidPass-Swift
+
 ### Rust SDK
 
 * https://github.com/vaxxnz/nzcp-rust

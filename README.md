@@ -15,6 +15,7 @@
 * https://nz-covid-pass.github.io/web-nz-covid-pass-decoder/ - [source repo](https://github.com/nz-covid-pass/web-nz-covid-pass-decoder)
 * https://vaxxed.as/ - [source repo](https://github.com/vaxxnz/vaxxed-as-app)
 * https://d1chdssarsi2bn.cloudfront.net [source repo](https://github.com/servian/nz-covidpass-verification-app)
+* https://aha-aha-aha.github.io/JsNzCovidPassVerifier/ [source repo](https://github.com/aha-aha-aha/JsNzCovidPassVerifier/)
 
 ### Mobile apps
 
@@ -42,6 +43,7 @@
 * https://github.com/plambrechtsen/pynzcovidpass
 * https://github.com/finncodes/py-nz-covid-pass
 * https://github.com/zendamacf/nz-vaccine-pass-verify
+* https://gitlab.com/ahawildlifebakery/NZVaccinePassportValidator
 
 ### HTTP API
 
@@ -65,4 +67,5 @@
 * https://github.com/echojc/nzcpv
 
 ### C
+
 * https://github.com/noway/nzcp-c

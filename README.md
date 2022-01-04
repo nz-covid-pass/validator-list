@@ -14,8 +14,8 @@
 * https://scanner.nz - [source repo](https://github.com/Kauabunga/covid-cert-scanner)
 * https://nz-covid-pass.github.io/web-nz-covid-pass-decoder/ - [source repo](https://github.com/nz-covid-pass/web-nz-covid-pass-decoder)
 * https://vaxxed.as/ - [source repo](https://github.com/vaxxnz/vaxxed-as-app)
-* https://d1chdssarsi2bn.cloudfront.net [source repo](https://github.com/servian/nz-covidpass-verification-app)
-* https://aha-aha-aha.github.io/JsNzCovidPassVerifier/ [source repo](https://github.com/aha-aha-aha/JsNzCovidPassVerifier/)
+* https://d1chdssarsi2bn.cloudfront.net - [source repo](https://github.com/servian/nz-covidpass-verification-app)
+* https://aha-aha-aha.github.io/JsNzCovidPassVerifier/ - [source repo](https://github.com/aha-aha-aha/JsNzCovidPassVerifier/)
 
 ### Mobile apps
 

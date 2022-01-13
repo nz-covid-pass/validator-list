@@ -25,6 +25,9 @@
 * https://github.com/kety-folf/Covid-Cert-Scanner (Kotlin)
 * https://github.com/rwilson504/nzcp-pcf (Microsoft Power Apps)
 
+### Desktop apps
+* https://github.com/noway/nzcp-qt (Qt)
+
 ### JavaScript SDK
 
 * https://github.com/vaxxnz/nzcp-js

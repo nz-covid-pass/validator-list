@@ -72,3 +72,7 @@
 ### C
 
 * https://github.com/noway/nzcp-c
+
+### Solidity
+
+* https://github.com/noway/nzcp-sol

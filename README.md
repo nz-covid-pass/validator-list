@@ -36,6 +36,10 @@
 
 * https://github.com/GallagherSecurity/NzCovidPass-Swift
 
+### Android SDK
+
+* https://github.com/GallagherSecurity/NzCovidPass-Android
+
 ### Rust SDK
 
 * https://github.com/vaxxnz/nzcp-rust

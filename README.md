@@ -80,3 +80,8 @@
 ### Solidity
 
 * https://github.com/noway/nzcp-sol
+
+
+### Circom
+
+* https://github.com/noway/nzcp-circom
